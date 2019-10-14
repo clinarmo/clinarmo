@@ -148,7 +148,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-transparent-white-128x56.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "http://www.clinarmo.com",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -237,7 +237,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-black-322x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "http://www.clinarmo.com",
               "title": "",
               "linkInNewWindow": false
             },
