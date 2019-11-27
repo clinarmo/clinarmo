@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^github.io/clinarmo/?$ com
+RewriteCond %{HTTP_HOST} clinarmo.com [NC]
