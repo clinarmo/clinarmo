@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^clinarmo.github.io/clinarmo/?$ clinarmo.com
+RewriteRule ^github.io/clinarmo/?$ com
