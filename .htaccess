@@ -1,2 +1,4 @@
 RewriteEngine On
 RewriteCond %{HTTP_HOST} clinarmo.com [NC]
+RewriteRule ^(.*) https://www.clinarmo.com/ [R=302,NC]
+
